@@ -2,3 +2,5 @@
 controller_organizations:
 - name: Home Lab
   description: Home lab
+- name: PhilBar Industries
+  description: Tycoon Corner!
