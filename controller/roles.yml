@@ -4,7 +4,7 @@ controller_roles:
   target_team: "TeamA"
   role: member
 - team: "TeamA"
-  organization: "Home Lab"
+  organization: "PhilBar Industries"
   roles:
     - execute
     - read
