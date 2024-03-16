@@ -3,4 +3,7 @@ controller_inventories:
  - name: Demo Inventory2
    organization: Default
    description: clone of Demo Inventory for CaC example
+ - name: Home Lab Inventory
+   organization: Default
+   description: Inventory for Home Lab
 ...
